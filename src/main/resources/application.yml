@@ -23,7 +23,7 @@ logging:
                 SQL: debug
                 type: trace
 
-
+## test properties
 ---
 spring:
     config:
